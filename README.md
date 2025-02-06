@@ -1,5 +1,5 @@
 # Me Salva Ai
-//![image](https://github.com/GustavoBrDev/ProjetoVinicius/blob/main/Logo.jpg)
+![image](https://github.com/GustavoBrDev/ProjetoVinicius/blob/main/LogoMaior.png)
 ## Seu nome está sujo, a sua casa não
 
 O sistema consiste em uma aplicação Web responsiva com o intuito de facilitar a busca por profissonais de limpeza. A aplicação possui as seguintes funcionalidades:
